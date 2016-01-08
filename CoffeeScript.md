@@ -1,7 +1,4 @@
 # CoffeeScript
-ドットインストールの CoffeeScript 入門より  
-http://dotinstall.com/lessons/basic_coffeescript
-
 
 ## CoffeeScript とは？
 * JavaScript に変換可能な言語
